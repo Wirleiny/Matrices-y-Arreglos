@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\bin\Debug\net8.0\Ejer.33.exe
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\bin\Debug\net8.0\Ejer.33.deps.json
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\bin\Debug\net8.0\Ejer.33.runtimeconfig.json
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\bin\Debug\net8.0\Ejer.33.dll
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\bin\Debug\net8.0\Ejer.33.pdb
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\obj\Debug\net8.0\Ejer.33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\obj\Debug\net8.0\Ejer.33.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\obj\Debug\net8.0\Ejer.33.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\obj\Debug\net8.0\Ejer.33.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\obj\Debug\net8.0\Ejer.33.dll
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\obj\Debug\net8.0\refint\Ejer.33.dll
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\obj\Debug\net8.0\Ejer.33.pdb
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\obj\Debug\net8.0\Ejer.33.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Ejer.33\Ejer.33\obj\Debug\net8.0\ref\Ejer.33.dll
